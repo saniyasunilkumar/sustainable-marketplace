@@ -83,7 +83,7 @@
         // Fetch and display products
         async function loadProducts(category = "all") {
             
-            let url = category === "all" ? "/products" : `sustainable-marketplace-7nn8.vercel.app/products/${category}`;
+            let url = category === "all" ? "https://sustainable-marketplace-7nn8.vercel.app/products" : `https://sustainable-marketplace-7nn8.vercel.app/products/${category}`;
             //let url = category === "all" ? "/products" : `sustainable-marketplace-7nn8.vercel.app/products`;
             const response = await fetch(url);
             const products = await response.json();
