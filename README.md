@@ -43,11 +43,11 @@ For Software:
  Screenshot1 Homescreen
 ![sustainable marketplace](https://github.com/user-attachments/assets/a45b3885-6c6a-432d-8d34-4a650a95c5fe)
 
-[Screenshot2] Product selection
-(https://github.com/user-attachments/assets/0a7f60be-1c94-4a2b-8c28-04dd1145cc37)
+ Product selection
+![sustainable marketplace](https://github.com/user-attachments/assets/0a7f60be-1c94-4a2b-8c28-04dd1145cc37)
 
-[Screenshot3] Product selection
-(https://github.com/user-attachments/assets/e6ce94bd-9cf0-41fb-9858-9707aaa49a34)
+Product selection
+![sustainable marketplace](https://github.com/user-attachments/assets/e6ce94bd-9cf0-41fb-9858-9707aaa49a34)
 
 
 
